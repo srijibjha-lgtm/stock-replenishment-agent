@@ -1,0 +1,9 @@
+sku,name,on_hand,on_order,lead_time_days,unit_cost_inr,min_order_qty,supplier,shelf_life_days,abc_class
+SKU-101,Basmati rice 5 kg,70,0,5,520,10,Shree Agro Traders,365,A
+SKU-102,Toor dal 1 kg,60,40,4,145,25,Shree Agro Traders,270,A
+SKU-103,Sunflower oil 1 L,90,0,3,165,24,Pune Edible Oils,270,A
+SKU-104,Wheat atta 10 kg,25,0,4,420,10,Shree Agro Traders,90,A
+SKU-105,Sugar 1 kg,180,0,3,48,50,Pune Edible Oils,365,B
+SKU-106,Tea 500 g,20,0,6,260,12,Assam Leaf Co,365,B
+SKU-107,Detergent powder 1 kg,40,0,7,115,20,CleanHome Distributors,730,B
+SKU-108,Cream biscuits pack,300,0,2,28,48,CleanHome Distributors,120,C
